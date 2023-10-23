@@ -15,3 +15,5 @@ How it works
 ToDo
 - ultimately, would like to use a factor set as a basis for an art project. adding factors. multiplying factors. prime weirdness...
 - matplotlib visualization with the factor sets
+
+![terminal screenshot](factor-finder-screenshot.png)
